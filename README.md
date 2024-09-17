@@ -6,7 +6,7 @@ This project focuses on building multiple linear regression models to identify k
 ## Key Skills and Techniques
 - **Exploratory Data Analysis (EDA):** Utilised histograms, scatter plots, and heatmaps to identify distributions and relationships within the dataset.
 - **Regression Analysis:** Developed a multiple linear regression model using key variables that showed strong correlations with customer loyalty.
-- **Model Evaluation:** Calculated $R^2$, adjusted-$R^2$, and residual sum of squares (RSS) to assess the model's explanatory power and error.
+- **Model Evaluation:** Calculated $R^2$, adjusted $R^2$, and residual sum of squares (RSS) to assess the model's explanatory power and error.
 - **Feature Selection:** Identified key predictors, including price fairness, quality, trust, and customer satisfaction, to optimise model performance.
 - **Libraries:** `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`.
 
